@@ -1,0 +1,15 @@
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.csproj.AssemblyReference.cache
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.GeneratedMSBuildEditorConfig.editorconfig
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.AssemblyInfoInputs.cache
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.AssemblyInfo.cs
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.csproj.CoreCompileInputs.cache
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\bin\Debug\net6.0\Tennis.exe
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\bin\Debug\net6.0\Tennis.deps.json
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\bin\Debug\net6.0\Tennis.runtimeconfig.json
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\bin\Debug\net6.0\Tennis.dll
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\bin\Debug\net6.0\Tennis.pdb
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.dll
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\refint\Tennis.dll
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.pdb
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\Tennis.genruntimeconfig.cache
+D:\train_summer_2022\katas\Tennis\Tennis\Tennis\obj\Debug\net6.0\ref\Tennis.dll

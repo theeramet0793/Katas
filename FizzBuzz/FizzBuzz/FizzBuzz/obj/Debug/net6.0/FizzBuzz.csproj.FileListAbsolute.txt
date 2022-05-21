@@ -1,0 +1,15 @@
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+D:\train_summer_2022\katas\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll

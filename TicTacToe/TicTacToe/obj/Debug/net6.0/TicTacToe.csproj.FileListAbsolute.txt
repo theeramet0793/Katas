@@ -1,0 +1,15 @@
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.AssemblyReference.cache
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+D:\train_summer_2022\katas\TicTacToe\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll

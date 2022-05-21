@@ -1,0 +1,15 @@
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.exe
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.deps.json
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.runtimeconfig.json
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.dll
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net6.0\StringCalculator.pdb
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.csproj.AssemblyReference.cache
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.AssemblyInfoInputs.cache
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.AssemblyInfo.cs
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.csproj.CoreCompileInputs.cache
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.dll
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\refint\StringCalculator.dll
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.pdb
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\StringCalculator.genruntimeconfig.cache
+D:\train_summer_2022\katas\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net6.0\ref\StringCalculator.dll

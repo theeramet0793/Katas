@@ -1,0 +1,15 @@
+D:\train_summer_2022\katas\Poker\Poker\bin\Debug\net6.0\Poker.exe
+D:\train_summer_2022\katas\Poker\Poker\bin\Debug\net6.0\Poker.deps.json
+D:\train_summer_2022\katas\Poker\Poker\bin\Debug\net6.0\Poker.runtimeconfig.json
+D:\train_summer_2022\katas\Poker\Poker\bin\Debug\net6.0\Poker.dll
+D:\train_summer_2022\katas\Poker\Poker\bin\Debug\net6.0\Poker.pdb
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.csproj.AssemblyReference.cache
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.GeneratedMSBuildEditorConfig.editorconfig
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.AssemblyInfoInputs.cache
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.AssemblyInfo.cs
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.csproj.CoreCompileInputs.cache
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.dll
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\refint\Poker.dll
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.pdb
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\Poker.genruntimeconfig.cache
+D:\train_summer_2022\katas\Poker\Poker\obj\Debug\net6.0\ref\Poker.dll

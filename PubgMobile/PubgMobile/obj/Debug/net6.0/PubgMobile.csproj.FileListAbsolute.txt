@@ -1,0 +1,15 @@
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.csproj.AssemblyReference.cache
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.AssemblyInfoInputs.cache
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.AssemblyInfo.cs
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.csproj.CoreCompileInputs.cache
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\bin\Debug\net6.0\PubgMobile.exe
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\bin\Debug\net6.0\PubgMobile.deps.json
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\bin\Debug\net6.0\PubgMobile.runtimeconfig.json
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\bin\Debug\net6.0\PubgMobile.dll
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\bin\Debug\net6.0\PubgMobile.pdb
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.dll
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\refint\PubgMobile.dll
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.pdb
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\PubgMobile.genruntimeconfig.cache
+D:\train_summer_2022\katas\PubgMobile\PubgMobile\obj\Debug\net6.0\ref\PubgMobile.dll

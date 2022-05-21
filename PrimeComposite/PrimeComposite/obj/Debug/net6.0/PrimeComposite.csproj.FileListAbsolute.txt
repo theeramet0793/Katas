@@ -1,0 +1,15 @@
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\bin\Debug\net6.0\PrimeComposite.exe
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\bin\Debug\net6.0\PrimeComposite.deps.json
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\bin\Debug\net6.0\PrimeComposite.runtimeconfig.json
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\bin\Debug\net6.0\PrimeComposite.dll
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\bin\Debug\net6.0\PrimeComposite.pdb
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.csproj.AssemblyReference.cache
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.GeneratedMSBuildEditorConfig.editorconfig
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.AssemblyInfoInputs.cache
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.AssemblyInfo.cs
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.csproj.CoreCompileInputs.cache
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.dll
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\refint\PrimeComposite.dll
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.pdb
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\PrimeComposite.genruntimeconfig.cache
+D:\train_summer_2022\katas\PrimeComposite\PrimeComposite\obj\Debug\net6.0\ref\PrimeComposite.dll
